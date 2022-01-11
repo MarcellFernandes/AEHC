@@ -1,0 +1,33 @@
+h3 {
+    color: white;
+}
+
+
+@font-face {
+    font-family: 'Sugo';
+    src: url('/fonts/highwind/Highwind.otf');
+}
+
+p{
+    color: white;
+    font-family:  'Sugo';
+    font-size: 20px;
+    word-spacing: 2px;
+    line-height: 1.6;
+}
+
+h4{
+    color: black;
+    font-family:  'Sugo';
+    font-size: 20px;
+    word-spacing: 2px;
+    line-height: 1.6;
+}
+
+h6{
+    color: white;
+    font-family:  'Sugo';
+    font-size: 13px;
+    word-spacing: 1px;
+}
+
